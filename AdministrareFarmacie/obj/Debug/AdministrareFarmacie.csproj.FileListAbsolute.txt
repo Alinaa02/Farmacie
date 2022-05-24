@@ -1,0 +1,11 @@
+C:\Users\Cristina\Source\Repos\AdministrareFarmacie\bin\Debug\AdministrareFarmacie.dll
+C:\Users\Cristina\Source\Repos\AdministrareFarmacie\bin\Debug\AdministrareFarmacie.pdb
+C:\Users\Cristina\Source\Repos\AdministrareFarmacie\bin\Debug\AngajatiFarmacie.dll
+C:\Users\Cristina\Source\Repos\AdministrareFarmacie\bin\Debug\StocareMedicamente.dll
+C:\Users\Cristina\Source\Repos\AdministrareFarmacie\bin\Debug\AngajatiFarmacie.pdb
+C:\Users\Cristina\Source\Repos\AdministrareFarmacie\bin\Debug\StocareMedicamente.pdb
+C:\Users\Cristina\Source\Repos\AdministrareFarmacie\obj\Debug\AdministrareFarmacie.csproj.AssemblyReference.cache
+C:\Users\Cristina\Source\Repos\AdministrareFarmacie\obj\Debug\AdministrareFarmacie.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\Source\Repos\AdministrareFarmacie\obj\Debug\AdministrareFarmacie.csproj.CopyComplete
+C:\Users\Cristina\Source\Repos\AdministrareFarmacie\obj\Debug\AdministrareFarmacie.dll
+C:\Users\Cristina\Source\Repos\AdministrareFarmacie\obj\Debug\AdministrareFarmacie.pdb

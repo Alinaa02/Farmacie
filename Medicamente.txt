@@ -1,0 +1,2 @@
+Nurofen;200;capsule;cap;
+Olinth;100;picaturi;nas;

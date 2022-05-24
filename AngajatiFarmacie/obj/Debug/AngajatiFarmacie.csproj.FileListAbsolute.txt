@@ -1,0 +1,6 @@
+C:\Users\Cristina\Source\Repos\AngajatiFarmacie\bin\Debug\AngajatiFarmacie.dll
+C:\Users\Cristina\Source\Repos\AngajatiFarmacie\bin\Debug\AngajatiFarmacie.pdb
+C:\Users\Cristina\Source\Repos\AngajatiFarmacie\obj\Debug\AngajatiFarmacie.csproj.AssemblyReference.cache
+C:\Users\Cristina\Source\Repos\AngajatiFarmacie\obj\Debug\AngajatiFarmacie.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\Source\Repos\AngajatiFarmacie\obj\Debug\AngajatiFarmacie.dll
+C:\Users\Cristina\Source\Repos\AngajatiFarmacie\obj\Debug\AngajatiFarmacie.pdb

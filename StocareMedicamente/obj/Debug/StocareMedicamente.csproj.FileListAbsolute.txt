@@ -1,0 +1,6 @@
+C:\Users\Cristina\Source\Repos\StocareMedicamente\bin\Debug\StocareMedicamente.dll
+C:\Users\Cristina\Source\Repos\StocareMedicamente\bin\Debug\StocareMedicamente.pdb
+C:\Users\Cristina\Source\Repos\StocareMedicamente\obj\Debug\StocareMedicamente.csproj.AssemblyReference.cache
+C:\Users\Cristina\Source\Repos\StocareMedicamente\obj\Debug\StocareMedicamente.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\Source\Repos\StocareMedicamente\obj\Debug\StocareMedicamente.dll
+C:\Users\Cristina\Source\Repos\StocareMedicamente\obj\Debug\StocareMedicamente.pdb

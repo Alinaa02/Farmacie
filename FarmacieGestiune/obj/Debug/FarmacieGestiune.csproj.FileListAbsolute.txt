@@ -1,0 +1,14 @@
+C:\Users\Cristina\Source\Repos\FarmacieGestiune\bin\Debug\FarmacieGestiune.exe.config
+C:\Users\Cristina\Source\Repos\FarmacieGestiune\bin\Debug\FarmacieGestiune.exe
+C:\Users\Cristina\Source\Repos\FarmacieGestiune\bin\Debug\FarmacieGestiune.pdb
+C:\Users\Cristina\Source\Repos\FarmacieGestiune\bin\Debug\AdministrareFarmacie.dll
+C:\Users\Cristina\Source\Repos\FarmacieGestiune\bin\Debug\AngajatiFarmacie.dll
+C:\Users\Cristina\Source\Repos\FarmacieGestiune\bin\Debug\StocareMedicamente.dll
+C:\Users\Cristina\Source\Repos\FarmacieGestiune\bin\Debug\AdministrareFarmacie.pdb
+C:\Users\Cristina\Source\Repos\FarmacieGestiune\bin\Debug\AngajatiFarmacie.pdb
+C:\Users\Cristina\Source\Repos\FarmacieGestiune\bin\Debug\StocareMedicamente.pdb
+C:\Users\Cristina\Source\Repos\FarmacieGestiune\obj\Debug\FarmacieGestiune.csproj.AssemblyReference.cache
+C:\Users\Cristina\Source\Repos\FarmacieGestiune\obj\Debug\FarmacieGestiune.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\Source\Repos\FarmacieGestiune\obj\Debug\FarmacieGestiune.csproj.CopyComplete
+C:\Users\Cristina\Source\Repos\FarmacieGestiune\obj\Debug\FarmacieGestiune.exe
+C:\Users\Cristina\Source\Repos\FarmacieGestiune\obj\Debug\FarmacieGestiune.pdb
