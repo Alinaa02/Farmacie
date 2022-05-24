@@ -21,7 +21,7 @@ namespace Interfata
 {
     public partial class Form3 : Form
     {
-        bool compara = false;
+        bool comp = false;
         Administrare adminAngajat, adminAngajati;
         int nrAngajati = 0;
         Angajat angajat = new Angajat();
@@ -47,48 +47,36 @@ namespace Interfata
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            if (textBox1.Text.Length != 0)
-                textBox1.BackColor = Color.White;
-            else
-                textBox1.BackColor = Color.AliceBlue;
+         
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
-            if (textBox2.Text.Length != 0)
-                textBox2.BackColor = Color.White;
-            else
-                textBox2.BackColor = Color.AliceBlue;
+          
         }
         private void textBox3_TextChanged(object sender, EventArgs e)
         {
-            if (textBox3.Text.Length != 0)
-                textBox3.BackColor = Color.White;
-            else
-                textBox3.BackColor = Color.AliceBlue;
+           
         }
         private void textBox4_TextChanged(object sender, EventArgs e)
         {
-            if (textBox4.Text.Length != 0)
-                textBox4.BackColor = Color.White;
-            else
-                textBox4.BackColor = Color.AliceBlue;
+         
         }
 
         private void Form3_Load(object sender, EventArgs e)
         {
-            LoadTheme();
+            Afiseaza();
         }
-        private void LoadTheme()
+        private void Afiseaza()
         {
-            foreach (Control btns in this.Controls)
+            foreach (Control butoane in this.Controls)
             {
-                if (btns.GetType() == typeof(Button))
+                if (butoane.GetType() == typeof(Button))
                 {
-                    Button btn = (Button)btns;
-                    btn.BackColor = Color.White;
-                    btn.ForeColor = Color.Black;
-                    btn.FlatAppearance.BorderColor = Color.LimeGreen;
+                    Button buton = (Button)butoane;
+                    buton.BackColor = Color.White;
+                    buton.ForeColor = Color.Black;
+                    buton.FlatAppearance.BorderColor = Color.LimeGreen;
                 }
             }
 
@@ -101,14 +89,7 @@ namespace Interfata
 
         private void button2_Click(object sender, EventArgs e)
         {
-            textBox1.Text = "";
-            textBox1.BackColor = Color.White;
-            textBox2.Text = "";
-            textBox2.BackColor = Color.White;
-            textBox3.Text = "";
-            textBox3.BackColor = Color.White;
-            textBox4.Text = "";
-            textBox4.BackColor = Color.White;
+            
 
         }
 
@@ -120,20 +101,20 @@ namespace Interfata
         private void button1_Click(object sender, EventArgs e)
         {
             int ok = 1;
-            if (compara == false)
+            if (comp == false)
             {
                 button1.Width = 2 * button1.Width;
-                compara = true;
+                comp = true;
             }
             if (textBox1.Text.Length != 0 && textBox2.Text.Length != 0 && textBox3.Text.Length != 0 && textBox4.Text.Length != 0 )
             {
 
-                if (textBox1.Text.Any(c => char.IsDigit(c)) || textBox1.TextLength > 15)
+                if (textBox1.Text.Any(c => char.IsDigit(c)))
                 {
                     textBox1.BackColor = Color.Black;
                     ok = 0;
                 }
-                if (textBox2.Text.Any(c => char.IsDigit(c)) || textBox2.TextLength > 15)
+                if (textBox2.Text.Any(c => char.IsDigit(c)))
                 {
                     textBox2.BackColor = Color.Black;
                     ok = 0;
@@ -144,7 +125,7 @@ namespace Interfata
                     ok = 0;
                 }
 
-                if (!long.TryParse(textBox4.Text, out _) || textBox4.TextLength > 13)
+                if (!long.TryParse(textBox4.Text, out _))
                 {
                     textBox4.BackColor = Color.Black;
                     ok = 0;
@@ -160,10 +141,7 @@ namespace Interfata
                     nrAngajati = nrAngajati + 1;
                     angajat = new Angajat(textBox1.Text, textBox2.Text, textBox3.Text, textBox4.Text);
                     adminAngajati.AdaugareAngajat(angajat);
-                    textBox1.Text = "";
-                    textBox2.Text = "";
-                    textBox3.Text = "";
-                    textBox4.Text = "";
+
                 }
                 if (ok == 0)
                 {
@@ -191,7 +169,7 @@ namespace Interfata
 
             }
 
-            button1.Left = (this.ClientSize.Width - button1.Width) / 2;
+
         }
     }
 }
