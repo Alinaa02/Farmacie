@@ -1,0 +1,11 @@
+C:\Users\Cristina\Source\Repos\OpenGL1\bin\Debug\OpenGL1.exe.config
+C:\Users\Cristina\Source\Repos\OpenGL1\bin\Debug\OpenGL1.exe
+C:\Users\Cristina\Source\Repos\OpenGL1\bin\Debug\OpenGL1.pdb
+C:\Users\Cristina\Source\Repos\OpenGL1\bin\Debug\OpenTK.dll
+C:\Users\Cristina\Source\Repos\OpenGL1\bin\Debug\OpenTK.pdb
+C:\Users\Cristina\Source\Repos\OpenGL1\bin\Debug\OpenTK.xml
+C:\Users\Cristina\Source\Repos\OpenGL1\obj\Debug\OpenGL1.csproj.AssemblyReference.cache
+C:\Users\Cristina\Source\Repos\OpenGL1\obj\Debug\OpenGL1.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\Source\Repos\OpenGL1\obj\Debug\OpenGL1.csproj.CopyComplete
+C:\Users\Cristina\Source\Repos\OpenGL1\obj\Debug\OpenGL1.exe
+C:\Users\Cristina\Source\Repos\OpenGL1\obj\Debug\OpenGL1.pdb
